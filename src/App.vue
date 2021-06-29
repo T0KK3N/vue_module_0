@@ -2,7 +2,9 @@
   <h1>Bienvenido al curso de Vue</h1>
 </template>
 
-<script></script>
+<script>export default {
+  name: "App",
+};</script>
 
 <style scoped>
 body {
